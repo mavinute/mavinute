@@ -1,5 +1,8 @@
 👨‍💻 **Olá!** Sou um consultor de software dinâmico e apaixonado pelo universo da tecnologia. Com uma graduação em Análise e Desenvolvimento de Sistemas, trago comigo uma sólida formação acadêmica e quatro anos de experiência prática no campo.
 
+![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=mavinute&layout=compact&theme=dracula)
+
+
 ## 🛠️ Tecnologias e Ferramentas
 
 ### JavaScript/TypeScript
