@@ -1,4 +1,4 @@
-👨‍💻 **Olá!** Sou um consultor de software dinâmico e apaixonado pelo universo da tecnologia. Com uma graduação em Análise e Desenvolvimento de Sistemas, trago comigo uma sólida formação acadêmica e quatro anos de experiência prática no campo.
+👨‍💻 **Olá!** Sou um consultor de software dinâmico e apaixonado pelo universo da tecnologia.
 
 ## 🛠️ Tecnologias e Ferramentas
 
@@ -18,18 +18,8 @@
 
 ## ☁️ Experiência em Infraestrutura
 - **Firebase**: Gerenciamento de back-end e autenticação.
-- **AWS**: Soluções de nuvem e escalabilidade.
-- **Docker**: Contêinerização e deployment eficiente.
 
 ## 🎯 Foco e Objetivos
 
 Meu foco está em entregar soluções eficientes e elegantes, com uma abordagem prática para o desenvolvimento de sistemas inovadores. Sou um ativo valioso para projetos que exigem habilidades técnicas avançadas.
 
----
-
-### 📫 Entre em Contato
-
-Você pode me encontrar em:
-
-- **LinkedIn**: [Seu Perfil](https://www.linkedin.com)
-- **GitHub**: [Seu Repositório](https://github.com/mavinute)
