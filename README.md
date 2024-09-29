@@ -10,9 +10,6 @@
 
 ### PHP
 - **WordPress**: Criação de sites dinâmicos e gerenciáveis.
-- **Magento**: Soluções de e-commerce de alto desempenho.
-- **Moodle**: Sistemas de gestão de aprendizado.
-- **WooCommerce**: Implementação de lojas online completas e personalizadas.
 
 ![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=mavinute&layout=compact&theme=dracula)
 
