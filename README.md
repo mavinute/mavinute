@@ -1,4 +1,4 @@
-👨‍💻 **Olá!** Sou um consultor de software dinâmico e apaixonado pelo universo da tecnologia.
+👨‍💻 **Olá!** Sou um desenvovedor de aplicações web dinâmico e apaixonado pelo universo da tecnologia.
 
 ## 🛠️ Tecnologias e Ferramentas
 
@@ -8,7 +8,11 @@
 
 - **Python**: Contrução de Automações, Data Science e Machine Learning
 
-![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=mavinute&layout=compact&theme=dracula)
+- ## ☁️ Banco de Dados
+- **Postgres**: Amazenamento de dados em tabelas relacional.
+- **MongoDB**: Amazenamento de dados em formato não relacional.
 
 ## ☁️ Experiência em Infraestrutura
 - **Firebase**: Gerenciamento de back-end e autenticação.
+
+- ![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=mavinute&layout=compact&theme=dracula)
